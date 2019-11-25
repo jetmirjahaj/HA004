@@ -1,0 +1,7 @@
+REPOSITORY             TAG                 IMAGE ID            CREATED             SIZE
+jetmirjahaj/node-app   latest              12987239fa89        19 minutes ago      907MB
+<none>                 <none>              f54baba9a921        11 hours ago        903MB
+<none>                 <none>              5f4f4f33a8b6        11 hours ago        903MB
+node                   10                  d5680e53a228        43 hours ago        903MB
+nginx                  latest              4152a9608752        5 days ago          126MB
+hello-world            latest              fce289e99eb9        10 months ago       1.84kB
